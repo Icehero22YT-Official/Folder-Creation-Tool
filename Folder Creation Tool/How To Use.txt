@@ -1,0 +1,4 @@
+The New Folder Creation Tool Is Used to Create New Folder just in case the New "Folder" Option is missing when you right click or when the New Folder Shortcut keys
+are not working.
+
+There are ways to fix the missing new "folder" option, but if none worked it's best to use this program
